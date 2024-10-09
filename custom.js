@@ -1,1 +1,4 @@
-yourword
+aws_key
+alicloud_access_key
+
+admin_pass
