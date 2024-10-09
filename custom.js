@@ -1,4 +1,3 @@
-aws_key
-alicloud_access_key
+aws_keyalicloud_access_key
 
 admin_pass
