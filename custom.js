@@ -1,3 +1,3 @@
 aws_keyalicloud_access_key
 
-admin_pass
+admin_passff
