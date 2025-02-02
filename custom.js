@@ -25,7 +25,7 @@ github_auth = "https://1234567890123456789012345678901234567890@github.com"
 
 # Google
 google_service = """
-{
+{azfazf
   "type": "service_account",
   "project_id": "test"
 }
