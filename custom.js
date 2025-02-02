@@ -14,7 +14,7 @@ ffaff
 aws_key = "AKIAIOSFODNN7EXAMPLE"
 aws_token = "amzn.mws.12345678-1234-1234-1234-123456789012"
 aws_appsync = "da2-12345678901234567890123456"
-
+ff
 # Facebook
 fb_token = "EAACEdEose0cBAQualified123456789"
 fb_oauth = 'facebook_secret="12345678901234567890123456789012"'
