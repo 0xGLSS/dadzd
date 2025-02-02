@@ -20,7 +20,7 @@ fb_token = "EAACEdEose0cBAQualified123456789"
 fb_oauth = 'facebook_secret="12345678901234567890123456789012"'
 
 # GitHub
-github_key = 'github_token="1234567890123456789012345678901234567890"'
+github_key = 'github_token="1234567890123456789012345678901234567azrar890"'
 github_auth = "https://1234567890123456789012345678901234567890@github.com"
 
 # Google
