@@ -1,7 +1,7 @@
 # Test file with various secrets for testing truffle.py
 
 # Slack
-slack_token = "xoxp-123456789012-123456789012-123456789012-abcdef1234567890abfcdef1234567890"
+slack_token = "xoxp-123456789012-123456789012-123456789012-abcdef1234567affa890abfcdef1234567890"
 
 # Keys
 RSA_KEY = """-----BEGIN RSA PRIVATE KEY-----
