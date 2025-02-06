@@ -9,19 +9,20 @@ MIIBOgIBAAJBAKj34GkxFhD90vcNLYLInFEX6Ppy1tPf9Cnzj4p4WGeKLs1Pt8Qu
 KUpRKfFLfRYC9AIKjbJTWit+CqvjWYzvQwECAwEAAQJAIJLixBy2qpFoS4DSmoEmazfffarzra
 
   azr
-...
+...rarar
 -----END RSA PRIVATE KEY-----"""af
 ffaffrrarff
 qsf
 # AWSsazd
 
+
+dzad
 dd
 aws_key = "AKIAIOSFODNN7EXAMPLE"
-aws_token = "amzn.mws.12345678-1234-1234-1234-123456789012"
+sqdd
+aws_token = "amzn.mws.12345678-1234-1234-1234-123456789012"d
 aws_appsync = "da2-12345678901234567890123456"
-ff
-# Facebook
-fb_token = "EAACEdEose0cBAQualified123456789"
+fffb_token = "EAACEdEose0cBAQualified123456789"
 fb_oauth = 'facebook_secret="12345678901234567890123456789012"'
 
 # GitHub
