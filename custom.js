@@ -35,9 +35,10 @@ google_oauth = "123456789012-abcdefghijklmnopqrstuvwxyz123456.apps.googleusercon
 google_gmail = "ya29.ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklm-nopqrstuvwxyz0123"
 
 # Heroku
-heroku_key = "heroku_key='12345678-ABCD-EFGH-IJKL-123456789012'"
-
-# JWT
+heroku_key = "heroku_key='12345678-ABCD-EFGH-IJKL-123456789012'"ar
+arr
+r
+# JWTr
 jwt_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIn0"
 
 # Mail Services
